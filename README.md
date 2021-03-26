@@ -1,4 +1,4 @@
-# Fourier transforms of window functions
+# Fourier Transforms of Window Functions
 
 Project Description:
 I developed a tool for conducting Fourier Transform, which means converting
