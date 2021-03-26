@@ -1,4 +1,4 @@
-# Biomedical-Signals-and-Systems_Fourier transforms of window functions
+# Fourier transforms of window functions
 
 Project Description:
 I developed a tool for conducting Fourier Transform, which means converting
