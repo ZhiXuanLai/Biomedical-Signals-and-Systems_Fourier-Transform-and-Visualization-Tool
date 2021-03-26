@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-2018/11/12 HW4
+2018/11/12
+Fourier Transform and Visualization Tool
 """
 
 import numpy as np
